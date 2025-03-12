@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/michgidev/react-intro/static/css/main.8fd7583c.css",
-    "main.js": "/michgidev/react-intro/static/js/main.ab122442.js",
-    "index.html": "/michgidev/react-intro/index.html",
-    "static/media/delete.svg": "/michgidev/react-intro/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
-    "static/media/check.svg": "/michgidev/react-intro/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
-    "main.8fd7583c.css.map": "/michgidev/react-intro/static/css/main.8fd7583c.css.map",
-    "main.ab122442.js.map": "/michgidev/react-intro/static/js/main.ab122442.js.map"
+    "main.css": "/react-intro/static/css/main.8fd7583c.css",
+    "main.js": "/react-intro/static/js/main.8a5266f3.js",
+    "index.html": "/react-intro/index.html",
+    "static/media/delete.svg": "/react-intro/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/react-intro/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.8fd7583c.css.map": "/react-intro/static/css/main.8fd7583c.css.map",
+    "main.8a5266f3.js.map": "/react-intro/static/js/main.8a5266f3.js.map"
   },
   "entrypoints": [
     "static/css/main.8fd7583c.css",
-    "static/js/main.ab122442.js"
+    "static/js/main.8a5266f3.js"
   ]
 }
